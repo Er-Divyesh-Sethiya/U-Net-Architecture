@@ -1,5 +1,5 @@
 # U-Net-Architecture
-* ***History and Updates
+***History and Updates
 
 U-Net is a convolutional neural network architecture that was introduced by Olaf Ronneberger, Philipp Fischer, and Thomas Brox in their 2015 paper titled "U-Net: Convolutional Networks for Biomedical Image Segmentation." It was primarily designed for biomedical image segmentation tasks, where the goal is to classify and segment different structures or regions of interest within an image.
 
