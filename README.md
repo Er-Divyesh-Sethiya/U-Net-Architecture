@@ -5,6 +5,7 @@ History and Updates
 - U-Net(2015) Architecture archive: https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/u-net-release-2015-10-02.tar.gz 
 
 - The original U-Net architecture consisted of an encoder-decoder structure with skip connections. The encoder part gradually reduces the spatial dimensions of the input image, extracting high-level features through convolutional and pooling operations. The decoder part upsamples the low-resolution feature maps back to the original image size, recovering spatial information. Skip connections between corresponding encoder and decoder layers allow the network to preserve detailed spatial information and combine it with the high-level features, aiding in accurate segmentation.
+-Theory https://theaisummer.com/unet-architectures/
 
 - Since its introduction, U-Net has gained significant popularity and has been widely adopted in the field of medical image analysis. Researchers and practitioners have proposed several updates, modifications, and extensions to the U-Net architecture to address different challenges and improve its performance. Here are some notable updates in the past years:
 
